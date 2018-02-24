@@ -1,0 +1,39 @@
+.textbox{
+    width: 179.5px;
+    text-align: right;
+}
+
+.btn-xl {
+    padding: 10px 20px;
+    font-size: 20px;
+    border-radius: 10px;
+    width: 180px;
+    background-color: darkgrey;
+    padding-top: 0.5px !important;
+    padding-left: 14px !important
+}
+
+.customBox{
+    alignment: center;
+    width: 186px;
+    border-color: black;
+    border-style: solid;
+    background-color: darkgrey;
+
+}
+
+.custom_button {
+    width: 45px !important;
+    padding-top: 0.5px !important;
+    padding-left: 14px !important
+}
+
+.btn-op{
+    background-color: darkorange;
+}
+
+.vertical-center {
+    height: 100%;
+    width: 100%;
+}
+
